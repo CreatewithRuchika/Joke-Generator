@@ -1,1 +1,1 @@
-# Joke-Genrator
+# Joke-Generator
